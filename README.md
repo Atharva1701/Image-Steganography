@@ -16,5 +16,8 @@ Steganography is the process of hiding a secret message within a larger one in s
 
 ![image](https://user-images.githubusercontent.com/60689035/119865563-6c8aaa00-bf39-11eb-9fee-c187c7faef07.png)
 
+### References
+https://towardsdatascience.com/hiding-data-in-an-image-image-steganography-using-python-e491b68b1372
+
 
 
